@@ -164,7 +164,7 @@ main {
 }
 
 .emoji {
-  color: #4f4f4f; /* or inherit from body */
+  color: #4f4f4f !important; /* force ash color */
 }
 
 /* New grouped skills list styling */
